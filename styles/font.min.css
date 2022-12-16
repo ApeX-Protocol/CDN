@@ -1,35 +1,49 @@
 /* font */
 @font-face {
   font-family: 'Poppins';
-  src: url('https://cdn.jsdelivr.net/gh/ApeX-Protocol/CDN@0.0.5/fonts/Poppins-Regular.ttf') format('truetype');
+  src: url('https://static-pro.apex.exchange/apex_website/fonts/Poppins-Regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
   font-display: block;
 }
 @font-face {
   font-family: 'Poppins';
-  src: url('https://cdn.jsdelivr.net/gh/ApeX-Protocol/CDN@0.0.5/fonts/Poppins-Medium.ttf') format('truetype');
+  src: url('https://static-pro.apex.exchange/apex_website/fonts/Poppins-Medium.ttf') format('truetype');
   font-weight: 500;
   font-style: normal;
   font-display: block;
 }
 @font-face {
   font-family: 'Poppins';
-  src: url('https://cdn.jsdelivr.net/gh/ApeX-Protocol/CDN@0.0.5/fonts/Poppins-SemiBold.ttf') format('truetype');
+  src: url('https://static-pro.apex.exchange/apex_website/fonts/Poppins-SemiBold.ttf') format('truetype');
   font-weight: 600;
   font-style: normal;
   font-display: block;
 }
 @font-face {
   font-family: 'Poppins';
-  src: url('https://cdn.jsdelivr.net/gh/ApeX-Protocol/CDN@0.0.5/fonts/Poppins-Bold.ttf') format('truetype');
+  src: url('https://static-pro.apex.exchange/apex_website/fonts/Poppins-Bold.ttf') format('truetype');
   font-weight: 700;
   font-style: normal;
   font-display: block;
 }
 @font-face {
+  font-family: 'Poppins';
+  src: url('https://static-pro.apex.exchange/apex_website/fonts/Poppins-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
+  font-family: 'Poppins';
+  src: url('https://static-pro.apex.exchange/apex_website/fonts/Poppins-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: block;
+}
+@font-face {
   font-family: 'Dela Gothic One';
-  src: url('https://cdn.jsdelivr.net/gh/ApeX-Protocol/CDN@0.0.5/fonts/DelaGothicOne.ttf') format('truetype');
+  src: url('https://static-pro.apex.exchange/apex_website/fonts/DelaGothicOne.ttf') format('truetype');
   font-weight: 600;
   font-style: normal;
   font-display: block;
